@@ -1,4 +1,4 @@
-# testing-repo
+# Food Pedia
 
 ## Description
 
@@ -11,6 +11,11 @@ There's 2 page that using middleware of Guard in frontend
 * Login
 
 On Search Food page you need to login first. if not u gonna kick out from that page.
+
+## Requirement
+
+* database
+* nodejs 
 
 ## Frontend
 
@@ -34,7 +39,7 @@ VITE_API_URL=http://localhost:3000/
 npm run dev
 ```
 
-###
+## Backend
 First go to backend folder
 ```bash
 cd foodpedia-backend/
